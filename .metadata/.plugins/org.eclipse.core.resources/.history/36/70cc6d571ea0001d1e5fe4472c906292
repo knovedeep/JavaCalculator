@@ -1,0 +1,11 @@
+import java.util.Scanner;
+import Calc;
+public class usingCalcc {
+
+	public static void main(String[] args) {
+		add()
+		Scanner input= new Scanner(System.in);
+
+	}
+
+}
